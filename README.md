@@ -15,8 +15,24 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/11911977_24?theme=dark&font=Monserrat&ext=heatmap)  
 
 
-## 🌐 Let's Get Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharti24/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@neetneha116) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Immediate-Minute6287/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15405780/root?tab=profile)
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50; background-image: url('https://media.giphy.com/media/3o6vxtcQvL9v4pQxkI/giphy.gif'); background-size: cover; padding: 50px 0; border-radius: 10px;">Open Source Contributions & Community Involvement</h1>
+<p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; color: #555;">I love sharing my knowledge and contributing to the community ⚡</p>
+<p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; color: #555;">Engage with me on various platforms 🚀</p>
+
+<div align="center" style="display: flex; gap: 10px; margin-top: 20px; background-color: rgba(255, 255, 255, 0.8); border-radius: 15px; padding: 20px;">
+  <a href="https://medium.com/@neetneha116" target="_blank" style="text-decoration: none;">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" style="border-radius: 8px; border: 2px solid #4CAF50; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease-in-out;" />
+  </a>
+  <a href="https://reddit.com/user/Immediate-Minute6287/" target="_blank" style="text-decoration: none;">
+    <img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" style="border-radius: 8px; border: 2px solid #FF4500; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease-in-out;" />
+  </a>
+  <a href="https://stackoverflow.com/users/15405780/root?tab=profile" target="_blank" style="text-decoration: none;">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" style="border-radius: 8px; border: 2px solid #FE7A16; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease-in-out;" />
+  </a>
+  <a href="https://www.quora.com/profile/Neha-Bharti-4" target="_blank" style="text-decoration: none;">
+    <img alt="Quora" src="https://img.shields.io/badge/Quora-%23A50000?logo=Quora&logoColor=white" style="border-radius: 8px; border: 2px solid #A50000; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease-in-out;" />
+  </a>
+</div>
 
 
 
