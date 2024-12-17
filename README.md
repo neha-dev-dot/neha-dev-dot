@@ -1,12 +1,3 @@
-## 💻 My Coding Skills
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/11911977_24/) 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/neha2407)
-[![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/neetneha) 
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@neha2671/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/neetneha116)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/neetneha/)
-[![Spoj](https://img.shields.io/badge/SPOJ-0F9D58?logo=spoj&logoColor=white)](https://www.spoj.com/myaccount/)
-[![AtCoder](https://img.shields.io/badge/AtCoder-000000?logo=atcoder&logoColor=white)](https://atcoder.jp/users/neetneha)
 
 
 ## 🌐 Socials:
