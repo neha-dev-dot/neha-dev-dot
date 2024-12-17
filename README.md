@@ -1,4 +1,13 @@
-        
+## 💻 My Coding Skills
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/11911977_24/) 
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/neha2407)
+[![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/neetneha) 
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@neha2671/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/neetneha116)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/neetneha/)
+[![Spoj](https://img.shields.io/badge/SPOJ-0F9D58?logo=spoj&logoColor=white)](https://www.spoj.com/myaccount/)
+[![AtCoder](https://img.shields.io/badge/AtCoder-000000?logo=atcoder&logoColor=white)](https://atcoder.jp/users/neetneha)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bharti24/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@neetneha116) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Immediate-Minute6287/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/15405780/root?tab=profile) 
