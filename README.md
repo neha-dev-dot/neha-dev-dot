@@ -1,3 +1,14 @@
+<h1 align="center"> Hi 👋🏻, I'm Neha Bharti </br> 
+</h1>
+<p align="center">I love creating new things ⚡</p>
+<p align="center">Turning imagination into reality 🚀</p>
+<p align="center">
+ <a href="https://www.buymeacoffee.com/neha" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+ <a href="https://metasticworld.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/NehaBharti" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/NehaBharti" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/NehaBharti" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+
 
 ## 📊 My Coding Odyssey
 [![CodeChef Stats](https://cp-logo.vercel.app/codechef/neha2407)](https://www.codechef.com/users/neha2407) [![Codeforces Stats](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)](https://codeforces.com/profile/neetneha) [![HackerEarth](https://img.shields.io/badge/HackerEarth-Profile-323754?logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@neha2671/) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/neetneha116)  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/neetneha/)[![SPOJ Profile](https://img.shields.io/badge/SPOJ-Profile-3E7B7B?logo=spoj&logoColor=white)](https://www.spoj.com/myaccount/)  [![AtCoder Profile](https://img.shields.io/badge/AtCoder-Profile-00A1D6?logo=atcoder&logoColor=white)](https://atcoder.jp/users/neetneha)
