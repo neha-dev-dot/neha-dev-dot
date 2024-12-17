@@ -19,7 +19,6 @@
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-Profile-323754?logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@neha2671/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/neetneha116)  
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/neetneha/)<br/>
-
 [![SPOJ Profile](https://img.shields.io/badge/SPOJ-Profile-3E7B7B?logo=spoj&logoColor=white)](https://www.spoj.com/myaccount/)  
 [![AtCoder Profile](https://img.shields.io/badge/AtCoder-Profile-00A1D6?logo=atcoder&logoColor=white)](https://atcoder.jp/users/neetneha)
 
