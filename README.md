@@ -8,17 +8,11 @@
 <a href="https://www.linkedin.com/in/bharti24/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 
 
-## 📊 My Coding Odyssey
-[![CodeChef Stats](https://cp-logo.vercel.app/codechef/neha2407)](https://www.codechef.com/users/neha2407) [![Codeforces Stats](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)](https://codeforces.com/profile/neetneha) [![HackerEarth](https://img.shields.io/badge/HackerEarth-Profile-323754?logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@neha2671/) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/neetneha116)  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/neetneha/)[![SPOJ Profile](https://img.shields.io/badge/SPOJ-Profile-3E7B7B?logo=spoj&logoColor=white)](https://www.spoj.com/myaccount/)  [![AtCoder Profile](https://img.shields.io/badge/AtCoder-Profile-00A1D6?logo=atcoder&logoColor=white)](https://atcoder.jp/users/neetneha)
+<h2 align="left" style="font-family: 'Arial', sans-serif; color: #4CAF50;"> ⚙️ Open Source Contributions & Community Involvement</h2>
+<p align="left" style="font-size: 18px; font-family: 'Arial', sans-serif; color: #555;">I love sharing my knowledge and contributing to the community ⚡</p>
+<p align="left" style="font-size: 18px; font-family: 'Arial', sans-serif; color: #555;">Engage with me on various platforms 🚀</p>
 
-## 📊 LeetCode Heatmap
-![LeetCode Stats](https://leetcard.jacoblin.cool/11911977_24?theme=dark&font=Monserrat&ext=heatmap)  
-
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50; background-image: url('https://media.giphy.com/media/3o6vxtcQvL9v4pQxkI/giphy.gif'); background-size: cover; padding: 50px 0; border-radius: 10px;">Open Source Contributions & Community Involvement</h1>
-<p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; color: #555;">I love sharing my knowledge and contributing to the community ⚡</p>
-<p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; color: #555;">Engage with me on various platforms 🚀</p>
-
-<div align="center" style="display: flex; gap: 10px; margin-top: 20px; background-color: rgba(255, 255, 255, 0.8); border-radius: 15px; padding: 20px;">
+<div align="left" style="display: flex; gap: 10px; margin-top: 20px;">
   <a href="https://medium.com/@neetneha116" target="_blank" style="text-decoration: none;">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" style="border-radius: 8px; border: 2px solid #4CAF50; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease-in-out;" />
   </a>
@@ -32,6 +26,13 @@
     <img alt="Quora" src="https://img.shields.io/badge/Quora-%23A50000?logo=Quora&logoColor=white" style="border-radius: 8px; border: 2px solid #A50000; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease-in-out;" />
   </a>
 </div>
+
+
+## 📊 My Coding Odyssey
+[![CodeChef Stats](https://cp-logo.vercel.app/codechef/neha2407)](https://www.codechef.com/users/neha2407) [![Codeforces Stats](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)](https://codeforces.com/profile/neetneha) [![HackerEarth](https://img.shields.io/badge/HackerEarth-Profile-323754?logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@neha2671/) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/neetneha116)  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/neetneha/)[![SPOJ Profile](https://img.shields.io/badge/SPOJ-Profile-3E7B7B?logo=spoj&logoColor=white)](https://www.spoj.com/myaccount/)  [![AtCoder Profile](https://img.shields.io/badge/AtCoder-Profile-00A1D6?logo=atcoder&logoColor=white)](https://atcoder.jp/users/neetneha)
+
+## 📊 LeetCode Heatmap
+![LeetCode Stats](https://leetcard.jacoblin.cool/11911977_24?theme=dark&font=Monserrat&ext=heatmap)  
 
 
 ## Tech Stack 💻
