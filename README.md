@@ -14,7 +14,6 @@
 ## 📊 LeetCode Heatmap
 ![LeetCode Stats](https://leetcard.jacoblin.cool/11911977_24?theme=dark&font=Monserrat&ext=heatmap)  
 
-
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50; background-image: url('https://media.giphy.com/media/3o6vxtcQvL9v4pQxkI/giphy.gif'); background-size: cover; padding: 50px 0; border-radius: 10px;">Open Source Contributions & Community Involvement</h1>
 <p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; color: #555;">I love sharing my knowledge and contributing to the community ⚡</p>
 <p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; color: #555;">Engage with me on various platforms 🚀</p>
@@ -29,11 +28,10 @@
   <a href="https://stackoverflow.com/users/15405780/root?tab=profile" target="_blank" style="text-decoration: none;">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" style="border-radius: 8px; border: 2px solid #FE7A16; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease-in-out;" />
   </a>
-  <a href="https://www.quora.com/profile/Neha-Bharti-4" target="_blank" style="text-decoration: none;">
+  <a href="https://www.quora.com/profile/Neha-Bharti-219" target="_blank" style="text-decoration: none;">
     <img alt="Quora" src="https://img.shields.io/badge/Quora-%23A50000?logo=Quora&logoColor=white" style="border-radius: 8px; border: 2px solid #A50000; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease-in-out;" />
   </a>
 </div>
-
 
 
 ## Tech Stack 💻
