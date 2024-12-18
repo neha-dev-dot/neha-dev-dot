@@ -99,7 +99,8 @@
 
 
 ## 📈 My GitHub Journey
-![](https://github-readme-stats.vercel.app/api?username=neha-dev-dot&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=600) ![](https://github-readme-streak-stats.herokuapp.com/?user=neha-dev-dot&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-dev-dot&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=600)
+![](https://github-readme-stats.vercel.app/api?username=neha-dev-dot&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=600) ![](https://github-readme-streak-stats.herokuapp.com/?user=neha-dev-dot&theme=radical&hide_border=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-dev-dot&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=600)
 
 
 ## 🎖️ My GitHub Milestones
