@@ -1,12 +1,30 @@
-<h1 align="center"> Hi 👋🏻, I'm Neha Bharti </br> 
-</h1>
-<p align="center">I love creating new things ⚡</p>
-<p align="center">Turning imagination into reality 🚀</p> 
-<p align="center">
- <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://x.com/neet_neha" target="_blank"><img alt="" src="https://img.shields.io/badge/X-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a> 
-<a href="https://www.linkedin.com/in/bharti24/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p> 
+<h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Neha Bharti</span></h1>
 
+<p align="center">
+  <i>🚀 DevOps & Cloud Engineer | ☁️ AWS/Azure/GCP | 🔁 CI/CD | 🧠 Lifelong Learner | 💬 Open Source Contributor</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bharti24/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/neet_neha" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />
+ 
+</p>
+
+---
+
+
+### 👩‍💻 About Me
+
+- 🔭 Currently working with **Kubernetes, Docker, Jenkins, Ansible, AWS, Azure, Terraform, GitHub Actions, Git**.
+- 🌱 Learning **GCP** & **Go language**.
+- ❤️ Passionate about **community collaboration**, open source, and sharing my knowledge.
+- 📢 Believer in **Learning in Public** and **giving back to the tech community**.
+- 🛠 Always open to explore new tools and frameworks in **DevOps & Cloud ecosystem**.
+
+---
 
 <h2 align="left" style="font-family: 'Arial', sans-serif; color: #4CAF50;"> ⚙️ Open Source Contributions & Community Involvement</h2>
 <p align="left" style="font-size: 18px; font-family: 'Arial', sans-serif; color: #555;">I love sharing my knowledge and contributing to the community ⚡</p>
@@ -28,35 +46,117 @@
 </div>
 
 
-## 📊 My Coding Odyssey
-[![CodeChef Stats](https://cp-logo.vercel.app/codechef/neha2407)](https://www.codechef.com/users/neha2407) [![Codeforces Stats](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)](https://codeforces.com/profile/neetneha) [![HackerEarth](https://img.shields.io/badge/HackerEarth-Profile-323754?logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@neha2671/) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/neetneha116)  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/neetneha/)[![SPOJ Profile](https://img.shields.io/badge/SPOJ-Profile-3E7B7B?logo=spoj&logoColor=white)](https://www.spoj.com/myaccount/)  [![AtCoder Profile](https://img.shields.io/badge/AtCoder-Profile-00A1D6?logo=atcoder&logoColor=white)](https://atcoder.jp/users/neetneha)
 
-## 📊 LeetCode Heatmap
-![LeetCode Stats](https://leetcard.jacoblin.cool/11911977_24?theme=dark&font=Monserrat&ext=heatmap)  
+## ☁️ Cloud Platforms & Tools
+
+---
+
+### 🟨 AWS (Amazon Web Services)
+![EC2](https://img.shields.io/badge/EC2-%23FF9900?logo=amazon-ec2&style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-%23FF9900?logo=amazon-s3&style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-%23FF9900?logo=aws&style=for-the-badge)
+![VPC](https://img.shields.io/badge/VPC-%23FF9900?logo=aws&style=for-the-badge)
+![ECS](https://img.shields.io/badge/ECS-%23FF9900?logo=amazon-ecs&style=for-the-badge)
+![EKS](https://img.shields.io/badge/EKS-%23FF9900?logo=amazon-eks&style=for-the-badge)
+![RDS](https://img.shields.io/badge/RDS-%23FF9900?logo=amazon-rds&style=for-the-badge)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF9900?logo=amazon-cloudwatch&style=for-the-badge)
+![CloudFront](https://img.shields.io/badge/CloudFront-%23FF9900?logo=amazon-cloudfront&style=for-the-badge)
+![Route53](https://img.shields.io/badge/Route53-%23FF9900?logo=amazon-route53&style=for-the-badge)
+![Lambda](https://img.shields.io/badge/Lambda-%23FF9900?logo=aws-lambda&style=for-the-badge)
+![SNS](https://img.shields.io/badge/SNS-%23FF9900?logo=amazon-sns&style=for-the-badge)
+![SQS](https://img.shields.io/badge/SQS-%23FF9900?logo=amazon-sqs&style=for-the-badge)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF9900?logo=aws-cloudformation&style=for-the-badge)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-%23FF9900?logo=aws&style=for-the-badge)
+
+---
+
+### 🔵 Azure (Microsoft Azure)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&style=for-the-badge)
+![Azure VM](https://img.shields.io/badge/Azure_VM-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure Active Directory](https://img.shields.io/badge/Azure_AD-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure App Service](https://img.shields.io/badge/Azure_App_Service-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure Kubernetes Service (AKS)](https://img.shields.io/badge/AKS-0078D7?logo=azuredevops&style=for-the-badge)
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D7?logo=microsoft-azure&style=for-the-badge)
+
+---
+
+### 🔴 GCP (Google Cloud Platform) (Learning)
+![GCE](https://img.shields.io/badge/GCE-F9AB00?logo=google-cloud&style=for-the-badge)
+![GKE](https://img.shields.io/badge/GKE-F9AB00?logo=google-cloud&style=for-the-badge)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-F9AB00?logo=google-cloud&style=for-the-badge)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-F9AB00?logo=googlecloudfunctions&style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/BigQuery-F9AB00?logo=google-cloud&style=for-the-badge)
+![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-F9AB00?logo=google-cloud&style=for-the-badge)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-F9AB00?logo=google-cloud&style=for-the-badge)
+![Pub/Sub](https://img.shields.io/badge/Pub/Sub-F9AB00?logo=google-cloud&style=for-the-badge)
+![Operations Suite](https://img.shields.io/badge/Operations_Suite-F9AB00?logo=google-cloud&style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-F9AB00?logo=google-cloud&style=for-the-badge)
+
+---
 
 
-## Tech Stack 💻
-#### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### Cloud & Hosting
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+## 🔁 CI/CD Tools
 
-#### JS Libraries & Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![CodeCommit](https://img.shields.io/badge/CodeCommit-%23FF9900?logo=aws&style=for-the-badge)
+![CodeBuild](https://img.shields.io/badge/CodeBuild-%23FF9900?logo=aws&style=for-the-badge)
+![CodeDeploy](https://img.shields.io/badge/CodeDeploy-%23FF9900?logo=aws&style=for-the-badge)
+![CodePipeline](https://img.shields.io/badge/CodePipeline-%23FF9900?logo=aws&style=for-the-badge)
+![CodeStar](https://img.shields.io/badge/CodeStar-%23FF9900?logo=aws&style=for-the-badge)
+![Cloud9](https://img.shields.io/badge/Cloud9-%23FF9900?logo=aws&style=for-the-badge)
+
+
+---
+
+## 🔧 Configuration Management & Automation
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-%2312100E.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 🐳 Containerization & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+---
+
+## 📈 Monitoring & Logging
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-0F253A?style=for-the-badge&logo=grafana&logoColor=white)
+![Promtail](https://img.shields.io/badge/Promtail-00BFFF?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+---
+
+## 📦 DevOps Tools
+
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 💻 Scripting & Programming
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -66,30 +166,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
-#### Development & CI/CD Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231F1F1F.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-#### DevOps Tools
-![Nagios](https://img.shields.io/badge/nagios-%2331433A.svg?style=for-the-badge&logo=nagios&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-%23D54B00.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Jenkins X](https://img.shields.io/badge/jenkins%20x-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-#### Tools & Utilities
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+---
 
 #### Design & Collaboration Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -97,26 +174,42 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+---
 
-## 📈 My GitHub Journey
+## 🏆 Certifications
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=neha-dev-dot&theme=radical&hide_border=false)
+| Certificate | Link |
+|-------------|------|
+| ✅ **AWS Certified Cloud Practitioner** | [View Certificate](https://example.com/aws-certificate) |
+| ✅ **Microsoft Certified: Azure Fundamentals** | [View Certificate](https://example.com/azure-certificate) |
+| ✅ **Linux Foundation Certified Kubernetes Administrator (CKA)** | [View Certificate](https://example.com/cka-certificate) |
+| ✅ **Terraform Associate** | [View Certificate](https://example.com/terraform-certificate) |
 
-![](https://github-readme-stats.vercel.app/api?username=neha-dev-dot&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=600) 
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-dev-dot&theme=radical&hide_border=false&layout=compact&cache_seconds=1800)
+## 🚀 Projects
 
+| Name | Description | Link |
+|------|-------------|------|
+| 🔹 **Kubernetes CI/CD Pipeline** | Automated pipeline using GitHub Actions, Docker, and Helm on EKS. | [GitHub Repo](https://github.com/neha-dev-dot/k8s-pipeline) |
+| 🔹 **Terraform AWS Infra** | Provisioned complete infra with networking, EC2, and S3. | [GitHub Repo](https://github.com/neha-dev-dot/terraform-aws-infra) |
+| 🔹 **Monitoring with Prometheus & Grafana** | Setup for real-time logs and monitoring for services. | [GitHub Repo](https://github.com/neha-dev-dot/monitoring-stack) |
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neha-dev-dot&show_icons=true&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha-dev-dot&layout=compact&theme=radical" height="170px"/>
+</p>
+
+---
 
 ## 🎖️ My GitHub Milestones
 ![](https://github-profile-trophy.vercel.app/?username=neha-dev-dot&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-## 📜 Words of a Coder
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-<img src="https://visitcount.itsvg.in/api?id=neha-dev-dot&icon=4&color=8" alt="Visit Count" />
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👀 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neha-dev-dot&label=Visitors&color=brightgreen&style=flat-square" alt="neha-dev-dot" />
+</p>
