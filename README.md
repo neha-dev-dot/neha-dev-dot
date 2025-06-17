@@ -176,26 +176,6 @@
 
 ---
 
-## 🏆 Certifications
-
-| Certificate | Link |
-|-------------|------|
-| ✅ **AWS Certified Cloud Practitioner** | [View Certificate](https://example.com/aws-certificate) |
-| ✅ **Microsoft Certified: Azure Fundamentals** | [View Certificate](https://example.com/azure-certificate) |
-| ✅ **Linux Foundation Certified Kubernetes Administrator (CKA)** | [View Certificate](https://example.com/cka-certificate) |
-| ✅ **Terraform Associate** | [View Certificate](https://example.com/terraform-certificate) |
-
----
-
-## 🚀 Projects
-
-| Name | Description | Link |
-|------|-------------|------|
-| 🔹 **Kubernetes CI/CD Pipeline** | Automated pipeline using GitHub Actions, Docker, and Helm on EKS. | [GitHub Repo](https://github.com/neha-dev-dot/k8s-pipeline) |
-| 🔹 **Terraform AWS Infra** | Provisioned complete infra with networking, EC2, and S3. | [GitHub Repo](https://github.com/neha-dev-dot/terraform-aws-infra) |
-| 🔹 **Monitoring with Prometheus & Grafana** | Setup for real-time logs and monitoring for services. | [GitHub Repo](https://github.com/neha-dev-dot/monitoring-stack) |
-
----
 
 ## 📊 GitHub Stats
 
