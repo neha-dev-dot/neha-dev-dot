@@ -80,11 +80,19 @@
 
 ### 📁 What I Work On
 
-- 🛠️ Building robust **ETL pipelines** with ADF + Databricks  
-- 🧠 **Data transformation** using PySpark and Delta Lake  
-- 🔐 Secure data pipelines with **RBAC**, **Managed Identity**  
-- ⚙️ Workflow orchestration using **Airflow**  
-- 📦 Working with structured & unstructured data using **Data Lake** architecture
+📁 Responsibilities & Experience
+🔄 Orchestrating data pipelines using Azure Data Factory
+
+⚙️ Real-time & batch data ingestion via Event Hub and Data Lake Gen2
+
+🧠 Data wrangling and modeling using Databricks (PySpark)
+
+📊 Analytics & dashboards with Azure Synapse, SQL, and Power BI
+
+🔐 Enabling enterprise-grade security using Key Vault, RBAC, and Private Endpoints
+
+📦 Working with diverse formats: Parquet, CSV, JSON, and Delta
+
 
 ---
 
