@@ -57,6 +57,14 @@
 ![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D7?logo=azuredevops&style=for-the-badge)
 ![Azure Storage](https://img.shields.io/badge/Azure_Storage-0078D7?logo=microsoft-azure&style=for-the-badge)
 ![Azure Event Hub](https://img.shields.io/badge/Azure_Event_Hub-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure SQL Database](https://img.shields.io/badge/Azure_SQL_DB-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure Analysis Services](https://img.shields.io/badge/Azure_Analysis_Services-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Database for PostgreSQL](https://img.shields.io/badge/Azure_PostgreSQL-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure Database for MySQL](https://img.shields.io/badge/Azure_MySQL-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure Data Explorer](https://img.shields.io/badge/Azure_Data_Explorer-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D7?logo=microsoft-azure&style=for-the-badge)
 
 ---
 
@@ -81,16 +89,12 @@
 ### 📁 What I Work On
 
 📁 Responsibilities & Experience
+
 🔄 Orchestrating data pipelines using Azure Data Factory
-
 ⚙️ Real-time & batch data ingestion via Event Hub and Data Lake Gen2
-
 🧠 Data wrangling and modeling using Databricks (PySpark)
-
 📊 Analytics & dashboards with Azure Synapse, SQL, and Power BI
-
 🔐 Enabling enterprise-grade security using Key Vault, RBAC, and Private Endpoints
-
 📦 Working with diverse formats: Parquet, CSV, JSON, and Delta
 
 
