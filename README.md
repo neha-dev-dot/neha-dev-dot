@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Neha Bharti</span></h1>
 
 <p align="center">
-  <i>🚀 DevOps & Cloud Engineer | ☁️ AWS/Azure/GCP | 🔁 CI/CD | 🧠 Lifelong Learner | 💬 Open Source Contributor</i>
+  <i>📊 Azure Data Engineer | 🚀 DevOps & Cloud Engineer | ☁️ Azure/AWS/GCP | 🔁 CI/CD | 🧠 Lifelong Learner | 💬 Open Source Contributor</i>
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 Currently working with **Kubernetes, Docker, Jenkins, Ansible, AWS, Azure, Terraform, GitHub Actions, Git**.
+- 📊 Currently working as a **Data Engineer** with Azure, Databricks, PySpark, and ADF.
+- 🔭 Also experienced in **Kubernetes, Docker, Jenkins, Ansible, AWS, Terraform, CI/CD tools**.
 - 🌱 Learning **GCP** & **Go language**.
 - ❤️ Passionate about **community collaboration**, open source, and sharing my knowledge.
 - 📢 Believer in **Learning in Public** and **giving back to the tech community**.
-- 🛠 Always open to explore new tools and frameworks in **DevOps & Cloud ecosystem**.
 
 ---
 
@@ -45,6 +45,53 @@
   </a>
 </div>
 
+
+## 📊 Azure Data Engineering Skills
+
+---
+
+### ⚡ Tools & Platforms
+
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure Data Lake Gen2](https://img.shields.io/badge/Azure_Data_Lake_Gen2-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D7?logo=azuredevops&style=for-the-badge)
+![Azure Storage](https://img.shields.io/badge/Azure_Storage-0078D7?logo=microsoft-azure&style=for-the-badge)
+![Azure Event Hub](https://img.shields.io/badge/Azure_Event_Hub-0078D7?logo=microsoft-azure&style=for-the-badge)
+
+---
+
+### 🧮 Data Processing & Frameworks
+
+![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-0A79DF?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+---
+
+### 🐍 Languages & Scripting
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+### 📁 What I Work On
+
+- 🛠️ Building robust **ETL pipelines** with ADF + Databricks  
+- 🧠 **Data transformation** using PySpark and Delta Lake  
+- 🔐 Secure data pipelines with **RBAC**, **Managed Identity**  
+- ⚙️ Workflow orchestration using **Airflow**  
+- 📦 Working with structured & unstructured data using **Data Lake** architecture
+
+---
+
+## ☁️ Cloud Platforms & Tools
+
+### 🟨 AWS (Amazon Web Services)
+<!-- your full AWS badge section remains here -->
 
 
 ## ☁️ Cloud Platforms & Tools
