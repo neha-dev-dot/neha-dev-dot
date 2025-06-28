@@ -102,12 +102,6 @@
 
 ## ☁️ Cloud Platforms & Tools
 
-### 🟨 AWS (Amazon Web Services)
-<!-- your full AWS badge section remains here -->
-
-
-## ☁️ Cloud Platforms & Tools
-
 ---
 
 ### 🟨 AWS (Amazon Web Services)
