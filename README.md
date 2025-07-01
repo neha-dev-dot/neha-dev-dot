@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Neha Bharti</span></h1>
 
 <p align="center">
-  <i>📊 Azure Data Engineer | 🚀 DevOps & Cloud | ☁️ Azure/AWS/GCP | 🔁 CI/CD | 🧠 Lifelong Learner | 💬 Open Source Contributor</i>
+  <i>📊 Data Engineer | 🚀 DevOps & Cloud | ☁️ Azure/AWS/GCP | 🔁 CI/CD | 🧠 Lifelong Learner | 💬 Open Source Contributor</i>
 </p>
 
 <p align="center">
